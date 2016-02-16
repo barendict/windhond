@@ -1,2 +1,2 @@
-# windhond
+# Windhond
 A C++ web server
